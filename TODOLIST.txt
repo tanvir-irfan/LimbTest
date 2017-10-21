@@ -1,0 +1,5 @@
+1. Remove (NOT SHOW) the distance beside the TRIAL #.
+2. Make the floor not have any kind of line.
+3. Make the game in two conditions.
+	a. With the room walls
+	b. without the room walls
